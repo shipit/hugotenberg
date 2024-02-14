@@ -1,0 +1,7 @@
+baseURL: https://hugotenberg.kaiju.ci/
+languageCode: en-us
+title: Hugotenberg
+
+module:
+  imports:
+    - path: github.com/imfing/hextra

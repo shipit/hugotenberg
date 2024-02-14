@@ -19,3 +19,21 @@
 
 # Go workspace file
 go.work
+
+# Mac OS X
+.DS_Store
+
+# Visual Studio Code
+.vscode
+
+# Hugo
+hugo.exe
+hugo.darwin
+hugo.linux
+
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+/.hugo_build.lock
